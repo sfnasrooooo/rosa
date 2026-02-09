@@ -1,0 +1,20 @@
+:root {
+  /* Color Tokens */
+  --primary-color: #ff5733;
+  --secondary-color: #33c1ff;
+  --background-color: #ffffff;
+  --text-color: #333333;
+
+  /* Font Tokens */
+  --base-font: 'Arial, sans-serif';
+  --heading-font: 'Helvetica, sans-serif';
+
+  /* Spacing Tokens */
+  --small-spacing: 8px;
+  --medium-spacing: 16px;
+  --large-spacing: 24px;
+
+  /* Other Design Tokens */
+  --border-radius: 4px;
+  --box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
